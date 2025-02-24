@@ -21,7 +21,7 @@
 
   <main>
     <section id="home">
-      <h1>Bem-vindo à Prima Consulting</h1>
+      <h1>Bem-vindo à Prime Consulting</h1>
       <p>Sua consultoria de confiança para transformar negócios.</p>
     </section>
 
